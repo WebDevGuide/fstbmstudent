@@ -488,7 +488,6 @@ a {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-items: center;
   }
 
   .first-main-about img {
